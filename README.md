@@ -1,3 +1,5 @@
+# THIS WEBPAGE IS CURRENTLY BEING BUILT AND DOES NOT REPRESENT THE FINAL PROJECT. 
+
 # Multimedia 2026 Class Project Template (WIP)
 
 This is a starter template for students to use for their final projects. It's built in Svelte and pulls in the main content from a Google Doc as HTML allowing the use for shortcodes to embed multimedia. 
